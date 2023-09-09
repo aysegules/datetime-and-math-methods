@@ -1,0 +1,15 @@
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\bin\Debug\net7.0\datetime and math methods.exe
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\bin\Debug\net7.0\datetime and math methods.deps.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\bin\Debug\net7.0\datetime and math methods.runtimeconfig.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\bin\Debug\net7.0\datetime and math methods.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\bin\Debug\net7.0\datetime and math methods.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.csproj.AssemblyReference.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.AssemblyInfoInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.AssemblyInfo.cs
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.csproj.CoreCompileInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\refint\datetime and math methods.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\datetime and math methods.genruntimeconfig.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\datetime and math methods\obj\Debug\net7.0\ref\datetime and math methods.dll
